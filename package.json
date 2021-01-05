@@ -13,7 +13,7 @@
   "dependencies": {
     "@beetapp/beet-js": "^0.6.1",
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "discord.js": "^11.5.0",
     "quasar": "^1.0.0-beta.0"
   },
